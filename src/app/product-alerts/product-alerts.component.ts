@@ -11,9 +11,9 @@ export class ProductAlertsComponent {
   @Output() notify = new EventEmitter();
 
   // @Input() product!: Product;
-  // constructor() { }
+  constructor() { }
 
-  // ngOnInit(): void {
-  // }
+  ngOnInit(): void {
+  }
 
 }
