@@ -1,3 +1,3 @@
-# angular-xeqlmy-owrz7s
+# angular_shopping-cart
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular-xeqlmy-owrz7s)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/angular_shopping-cart)
